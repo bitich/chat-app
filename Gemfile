@@ -57,5 +57,8 @@ gem "devise"
 
 gem 'pry-rails'
 
+gem 'rspec-rails'
+gem 'factory_bot_rails'
+gem 'faker'
 gem 'mini_magick'
 gem 'image_processing', '~> 1.2'
